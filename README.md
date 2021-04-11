@@ -6,4 +6,5 @@ Here Today I am writing simple number guessing program in C++
 # Update
 
 ### 2021-April-10
-#### Starting again from Linux Environment :)
+#### Starting again from Linux(Ubuntu) Environment :)
+#### Starting again from Linux(Manjora) Environment :)
