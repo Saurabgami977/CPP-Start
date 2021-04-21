@@ -3,7 +3,8 @@
     "files.associations": {
         "iostream": "cpp",
         "ostream": "cpp",
-        "cstdlib": "cpp"
+        "cstdlib": "cpp",
+        "iosfwd": "cpp"
     },
     "editor.defaultFormatter": "ms-vscode.cpptools",
     "editor.formatOnSave": true
