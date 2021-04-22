@@ -2,6 +2,7 @@
 
 using namespace std;
 
+//Printing asterisk
 // void print(int a)
 // {
 //     for (int j = 0; j < a; j++)
@@ -11,6 +12,7 @@ using namespace std;
 
 int main()
 {
+    //Printing asterisk
     // print(4);
     // print(5);
     // print(6);
