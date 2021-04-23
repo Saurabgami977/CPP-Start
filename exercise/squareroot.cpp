@@ -7,7 +7,10 @@ using namespace std;
 
 int main()
 {
-    int number = 2500;
-    int squareRoot = sqrt(number);
-    cout << squareRoot << endl;
+
+    float number, root;
+    cout << "Enter the number whose root is to be found: ";
+    cin >> number;
+    root = sqrt(number);
+    cout << "Square root of " << number << " is " << root << endl;
 }
